@@ -45,3 +45,4 @@ class MyHashMap(object):
             self.map[hash_key] = None
             return
         return -1
+    
